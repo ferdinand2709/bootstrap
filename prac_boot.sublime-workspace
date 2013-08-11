@@ -35,46 +35,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 728,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "js/bootstrap.js",
-			"settings":
-			{
-				"buffer_size": 57226,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/bootstrap.css",
-			"settings":
-			{
-				"buffer_size": 84770,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "licence.txt",
-			"settings":
-			{
-				"buffer_size": 16,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "readme.txt",
-			"settings":
-			{
-				"buffer_size": 19,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -100,10 +60,32 @@
 	},
 	"file_history":
 	[
+		"/D/xampp/htdocs/gp/gitphp/.git/objects/9b/357fac57c65182b3a8b18e9789ffb1893818d5",
+		"/D/xampp/htdocs/frontend/bootstrap/index.html",
+		"/D/xampp/htdocs/frontend/bootstrap/readme.txt",
+		"/D/xampp/htdocs/gp/gitphp/.git/hooks/post-update.sample",
+		"/D/xampp/htdocs/gp/gitphp/.git/info/exclude",
+		"/D/xampp/htdocs/gp/gitphp/.git/hooks/pre-commit.sample",
+		"/D/xampp/htdocs/gp/gitphp/.git/hooks/pre-applypatch.sample",
+		"/D/xampp/htdocs/gp/gitphp/.git/hooks/commit-msg.sample",
+		"/D/xampp/htdocs/gp/gitphp/.git/hooks/applypatch-msg.sample",
+		"/D/xampp/htdocs/gp/gitphp/.git/hooks/update.sample",
+		"/D/xampp/htdocs/gp/gitphp/.git/config",
+		"/D/xampp/htdocs/gp/gitphp/.git/description",
+		"/D/xampp/htdocs/gp/gitphp/.git/HEAD",
+		"/D/elMaestroSoda/38/post-update",
+		"/D/xampp/htdocs/frontend/bootstrap/.git/hooks/README.sample",
+		"/D/xampp/htdocs/frontend/bootstrap/.git/info/exclude",
+		"/D/xampp/htdocs/frontend/bootstrap/.git/config",
+		"/D/xampp/htdocs/gp/gitphp/.git/objects/6e/58cb66142a3be54d0010406f5798c163e8080a",
+		"/D/xampp/htdocs/frontend/bootstrap/js/bootstrap.js",
+		"/D/xampp/htdocs/frontend/bootstrap/css/bootstrap.css",
+		"/D/elMaestroSoda/38/post-update (1)",
+		"/D/xampp/htdocs/frontend/bootstrap/licence.txt",
+		"/D/xampp/apache/conf/httpd.conf",
 		"/D/xampp/htdocs/web/lab/sticky-footer-navbar/index.html",
 		"/D/xampp/htdocs/web/aplication/index.html",
 		"/D/xampp/htdocs/html5/offline/practica1/clock.html",
-		"/D/xampp/apache/conf/httpd.conf",
 		"/D/xampp/htdocs/html5/offline/practica1/clock.css",
 		"/D/xampp/htdocs/html5/offline/practica1/clock.js",
 		"/D/xampp/htdocs/html5/offline/practica1/clock.appcache",
@@ -280,145 +262,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 728,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								207,
-								207
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "js/bootstrap.js",
-					"settings":
-					{
-						"buffer_size": 57226,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/bootstrap.css",
-					"settings":
-					{
-						"buffer_size": 84770,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								223,
-								223
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "licence.txt",
-					"settings":
-					{
-						"buffer_size": 16,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "readme.txt",
-					"settings":
-					{
-						"buffer_size": 19,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								19,
-								19
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
